@@ -1189,6 +1189,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 ✅  **Instead use**
 #### Web
 - [miniPaint](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+- [OpenPixels](https://openpixels.app) - Photo upscaler and restorer that enlarges and denoises images in the browser with on-device models, so the photo is never uploaded; open source alternative to online AI upscalers. MIT/Apache-2.0.
 
 #### Desktop
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
