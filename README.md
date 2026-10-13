@@ -1565,6 +1565,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+- [OpenDocScan](https://opendocscan.com) - Document scanner that runs in the browser: crops and enhances phone photos of documents on-device, with no uploads or sign-up; open source alternative to CamScanner and Adobe Scan. MIT/Apache-2.0.
 
 [Back to top 🔝](#contents)
 
