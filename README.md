@@ -295,6 +295,7 @@ When using cloud-based AI services, the data you input is often collected and st
 	- [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
 
 - **Apps and services**
+	- [OpenNoteTaker](https://opennotetaker.app) - Meeting recorder that transcribes and separates speakers in the browser with Whisper, with no bot joining the call and no audio uploaded (AI-written minutes are an opt-in paid extra); open source alternative to Otter.ai and Fireflies. MIT/Apache-2.0.
 	- [OpenWhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
 	- [Sasayaki](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
 	- [Speaches](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
